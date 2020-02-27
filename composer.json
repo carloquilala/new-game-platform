@@ -2,7 +2,7 @@
     "name": "jsystems/newgame",
     "description": "Betting platform for Casino, Slot, Virtual Sport and Sports",
     "type": "library",
-    "keywords": ["bet", "betting", "betting platform" "new game", "casino", "slot", "sports", "sportsbook"],
+    "keywords": ["bet", "betting", "betting platform", "new game", "casino", "slot", "sports", "sportsbook"],
     "homepage": "https://gitlab.com/carloquilala/new-game-platform",
     "authors": [
         {
